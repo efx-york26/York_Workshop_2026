@@ -48,6 +48,8 @@
   .speaker { color: #888; font-size: 0.9rem; }
   .affil { color: #aaa; font-size: 0.8rem; font-style: italic; }
   .slides { font-size: 0.85rem; }
+  .slot.active { background: #fbf5ec; }
+  .slot.active .time { color: #8a1f2d; font-weight: 600; }
   ul { margin: 0; padding-left: 1.2rem; }
   footer {
     margin-top: 4rem;
@@ -112,5 +114,25 @@
     This workshop is supported by the Australian Research Council, Grant DP240101009.
   </footer>
 </main>
+<script>
+  // Highlight the slot happening now (workshop day, Europe/London time).
+  const DAY = '2026-10-12';
+  function markActive(d = new Date()) {
+    const parts = new Intl.DateTimeFormat('en-GB', {
+      timeZone: 'Europe/London', year: 'numeric', month: '2-digit',
+      day: '2-digit', hour: '2-digit', minute: '2-digit', hourCycle: 'h23'
+    }).formatToParts(d).reduce((o, p) => (o[p.type] = p.value, o), {});
+    const today = `${parts.year}-${parts.month}-${parts.day}`;
+    const now = +parts.hour * 60 + +parts.minute;
+    document.querySelectorAll('.slot').forEach(s => {
+      const m = s.querySelector('.time').textContent.match(/(\d+):(\d+) – (\d+):(\d+)/);
+      if (!m) return;
+      const start = m[1] * 60 + +m[2], end = m[3] * 60 + +m[4];
+      s.classList.toggle('active', today === DAY && now >= start && now < end);
+    });
+  }
+  markActive();
+  setInterval(markActive, 60000);
+</script>
 </body>
 </html>
