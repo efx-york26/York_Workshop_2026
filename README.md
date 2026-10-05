@@ -2,6 +2,10 @@
 
 Monday 12 October 2026 · The Guildhall, York, UK
 
+## About
+
+This workshop brings together leading experts on macroeconomic and financial modelling to discuss recent advances in the modelling of extreme events. The workshop will be of interest to academic researchers at all levels, policymakers and practitioners.
+
 ## Programme
 
 | Time | Session |
