@@ -50,7 +50,9 @@
   .slides { font-size: 0.85rem; }
   .slot.active { background: #fbf5ec; }
   .slot.active .time { color: #8a1f2d; font-weight: 600; }
-  .map { width: 100%; height: 240px; border: 0; margin-top: 0.75rem; }
+  .map { width: 100%; height: 240px; border: 0; }
+  .mapwrap { position: relative; margin-top: 0.75rem; }
+  .mapwrap a { position: absolute; inset: 0; }
   ul { margin: 0; padding-left: 1.2rem; }
   footer {
     margin-top: 4rem;
@@ -93,8 +95,11 @@
     The Chopping Block Restaurant<br>
     Walmgate, York
   </p>
-  <iframe class="map" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
-    src="https://www.google.com/maps?q=The+Chopping+Block,+Walmgate,+York&output=embed"></iframe>
+  <div class="mapwrap">
+    <iframe class="map" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+      src="https://www.google.com/maps?q=The+Chopping+Block,+Walmgate,+York&output=embed"></iframe>
+    <a href="https://www.google.com/maps/search/?api=1&query=The+Chopping+Block,+Walmgate,+York" target="_blank" rel="noopener" aria-label="Open The Chopping Block in Google Maps"></a>
+  </div>
   <h2>Venue &amp; Location</h2>
   <p>
     University of York<br>
@@ -102,9 +107,11 @@
     Heslington, York YO10 5DD<br>
     United Kingdom
   </p>
-  <iframe class="map" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
-    src="https://www.google.com/maps?q=University+of+York,+Heslington,+York+YO10+5DD&output=embed"></iframe>
-
+  <div class="mapwrap">
+    <iframe class="map" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+      src="https://www.google.com/maps?q=University+of+York,+Heslington,+York+YO10+5DD&output=embed"></iframe>
+    <a href="https://www.google.com/maps/search/?api=1&query=University+of+York,+Heslington,+York+YO10+5DD" target="_blank" rel="noopener" aria-label="Open University of York in Google Maps"></a>
+  </div>
   <h2>Organisers</h2>
   <ul>
     <li>Matthew Greenwood-Nimmo</li>
