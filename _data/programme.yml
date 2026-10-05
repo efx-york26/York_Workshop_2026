@@ -1,0 +1,80 @@
+- time: "09:30 – 10:00"
+  title: Morning coffee, followed by opening remarks by Michael Thornton
+
+- time: "10:00 – 10:30"
+  title: "Contagion and Decoupling: Directional Comoment Tests"
+  speaker: Renee Fry-McKibbin
+  affiliation: Australian National University
+  slides: talk1.pdf
+
+- time: "10:30 – 11:00"
+  title: TBA
+  speaker: Tho Pham
+  affiliation: University of York
+  slides: talk2.pdf
+
+- time: "11:00 – 11:30"
+  title: "Equilibrium Treatment Effects: Difference-in-Differences under Network Interference and Latent Factors"
+  speaker: Yongcheol Shin
+  affiliation: University of York
+  slides: talk3.pdf
+
+- time: "11:30 – 11:50"
+  break: true
+  title: Coffee break
+
+- time: "11:50 – 12:20"
+  title: "Common and Hazard-Specific Variation in U.S. Natural Disaster Losses"
+  speaker: Matthew Greenwood-Nimmo
+  affiliation: University of Melbourne
+  slides: talk4.pdf
+
+- time: "12:20 – 12:50"
+  title: Semiparametric forecast comparison in unstable environments
+  speaker: Laura Coroneo
+  affiliation: University of York
+  slides: talk5.pdf
+
+- time: "12:50 – 14:00"
+  break: true
+  title: Lunch
+
+- time: "14:00 – 14:30"
+  title: "Granger Causality in G7 Inflation Spillovers: A QVAR Approach"
+  speaker: Ze-Yu Zhong
+  affiliation: Melbourne Business School
+  slides: talk6.pdf
+
+- time: "14:30 – 15:00"
+  title: TBA
+  speaker: Takashi Yamagata
+  affiliation: University of York
+  slides: talk7.pdf
+
+- time: "15:00 – 15:30"
+  title: TBA
+  speaker: Chaowen Zheng
+  affiliation: University of Southampton
+  slides: talk8.pdf
+
+- time: "15:30 – 15:50"
+  break: true
+  title: Coffee break
+
+- time: "15:50 – 16:20"
+  title: Iterated GMM estimation and inference for misspecified nonparametric estimating equations models
+  speaker: Francesco Bravo
+  affiliation: University of York
+  slides: talk9.pdf
+
+- time: "16:20 – 16:50"
+  title: The Quantile Vector Autoregressive Model with Observed Common Factors
+  speaker: Daniel Tiong
+  affiliation: University of Melbourne
+  slides: talk10.pdf
+
+- time: "16:50 – 17:20"
+  title: TBA
+  speaker: Byunghoon Kang
+  affiliation: Lancaster University
+  slides: talk11.pdf

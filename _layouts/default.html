@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ site.title }} | York 2026</title>
+<style>
+  body {
+    margin: 0;
+    font-family: Georgia, "Times New Roman", serif;
+    color: #222;
+    background: #fff;
+    line-height: 1.6;
+  }
+  main {
+    max-width: 42rem;
+    margin: 0 auto;
+    padding: 4rem 1.5rem 5rem;
+  }
+  h1 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.3;
+    margin: 0 0 0.5rem;
+  }
+  .subtitle {
+    color: #666;
+    margin: 0 0 3rem;
+  }
+  h2 {
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #888;
+    margin: 3rem 0 0.75rem;
+  }
+  p { margin: 0 0 0.75rem; }
+  a { color: inherit; }
+  .slot {
+    display: grid;
+    grid-template-columns: 7.5rem 1fr;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #eee;
+  }
+  .slot .time { color: #888; font-size: 0.85rem; }
+  .slot.break .title { color: #999; font-style: italic; }
+  .speaker { color: #555; font-size: 0.85rem; }
+  .affil { color: #aaa; font-size: 0.78rem; font-style: italic; }
+  .slides { font-size: 0.8rem; }
+  .slot.active { background: #fbf5ec; }
+  .slot.active .time { color: #8a1f2d; font-weight: 600; }
+  .map { width: 100%; height: 240px; border: 0; }
+  .mapwrap { position: relative; margin-top: 0.75rem; }
+  .mapwrap a { position: absolute; inset: 0; }
+  ul { margin: 0; padding-left: 1.2rem; }
+  li .affil { font-size: 0.8rem; }
+  footer {
+    margin-top: 4rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #eee;
+    font-size: 0.8rem;
+    color: #888;
+  }
+  @media (max-width: 540px) {
+    .slot { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <h1>{{ site.title }}</h1>
+  <p class="subtitle"><strong>Date:</strong> Monday 12 October 2026<br><strong>Venue:</strong> The Riverside Room, The Guildhall, York</p>
+
+{{ content }}
+
+  <footer>
+    This workshop is jointly funded by the Australian Research Council (grant number DP240101009) and the University of York.
+  </footer>
+</main>
+<script>
+  // Highlight the slot happening now (workshop day, Europe/London time).
+  const DAY = '2026-10-12';
+  function markActive(d = new Date()) {
+    const parts = new Intl.DateTimeFormat('en-GB', {
+      timeZone: 'Europe/London', year: 'numeric', month: '2-digit',
+      day: '2-digit', hour: '2-digit', minute: '2-digit', hourCycle: 'h23'
+    }).formatToParts(d).reduce((o, p) => (o[p.type] = p.value, o), {});
+    const today = `${parts.year}-${parts.month}-${parts.day}`;
+    const now = +parts.hour * 60 + +parts.minute;
+    document.querySelectorAll('.slot').forEach(s => {
+      const m = s.querySelector('.time').textContent.match(/(\d+):(\d+) – (\d+):(\d+)/);
+      if (!m) return;
+      const start = m[1] * 60 + +m[2], end = m[3] * 60 + +m[4];
+      s.classList.toggle('active', today === DAY && now >= start && now < end);
+    });
+  }
+  markActive();
+  setInterval(markActive, 60000);
+</script>
+</body>
+</html>
