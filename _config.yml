@@ -1,0 +1,8 @@
+title: Macroeconomic and Financial Modelling in an Era of Extremes
+exclude:
+  - AGENTS.md
+  - README.md
+  - schedule/
+  - "*.code-workspace"
+  - Gemfile
+  - Gemfile.lock

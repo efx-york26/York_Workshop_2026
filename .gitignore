@@ -67,3 +67,10 @@ AGENTS.md
 
 # schedule
 schedule/
+
+# Jekyll --------------------------------------------------------------------
+
+_site/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
