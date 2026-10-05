@@ -9,7 +9,7 @@ This workshop brings together leading experts on macroeconomic and financial mod
 ## Programme
 
 {% for slot in site.data.programme %}
-<div class="slot{% if slot.break %} break{% endif %}"><span class="time">{{ slot.time }}</span><span class="title">{%- if slot.speaker %}<em>{{ slot.title }}</em><br><span class="speaker">{{ slot.speaker }}</span><br><span class="affil">{{ slot.affiliation }}</span><br><a class="slides" href="slides/{{ slot.slides }}">Slides</a>{% else %}{{ slot.title }}{% endif %}</span></div>
+<div class="slot{% if slot.break %} break{% endif %}"><span class="time">{{ slot.time }}</span><span class="title">{%- if slot.speaker %}<em>{{ slot.title }}</em><br><span class="speaker">{{ slot.speaker }}</span><br><span class="affil">{{ slot.affiliation }}</span><br>{% if slot.slides %}<a class="slides" href="slides/{{ slot.slides }}">Slides</a>{% else %}<span class="slides">Slides (TBA)</span>{% endif %}{% else %}{{ slot.title }}{% endif %}</span></div>
 {% endfor %}
 
 ## Dinner
