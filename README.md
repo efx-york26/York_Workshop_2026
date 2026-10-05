@@ -1,17 +1,11 @@
 # Macroeconomic and Financial Modelling in an Era of Extremes
 
-Monday 12 October 2026 · The Guildhall, York, UK
+**Date:** Monday 12 October 2026<br>
+**Venue:** The Riverside Room, The Guildhall, York
 
 ## About
 
 This workshop brings together leading experts on macroeconomic and financial modelling to discuss recent advances in the modelling of extreme events. The workshop will be of interest to academic researchers at all levels, policymakers and practitioners.
-
-## Venue
-
-The Riverside Room, The Guildhall
-St Martin's Courtyard, Coney Street
-York YO1 9QL, United Kingdom
-([map](https://www.google.com/maps/search/?api=1&query=The+Guildhall,+Coney+Street,+York+YO1+9QL))
 
 ## Programme
 
@@ -40,6 +34,12 @@ Chopping Block at Walmgate Ale House
 25 Walmgate, York YO1 9TX
 ([map](https://www.google.com/maps/search/?api=1&query=Chopping+Block+at+Walmgate+Ale+House,+25+Walmgate,+York+YO1+9TX))
 
+## Venue
+
+The Riverside Room, The Guildhall
+St Martin's Courtyard, Coney Street
+York YO1 9QL, United Kingdom
+([map](https://www.google.com/maps/search/?api=1&query=The+Guildhall,+Coney+Street,+York+YO1+9QL))
 
 ## Practical Information
 
