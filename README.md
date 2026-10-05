@@ -21,7 +21,7 @@ This workshop brings together leading experts on macroeconomic and financial mod
 | 12:50 – 14:00 | *Lunch* |
 | 14:00 – 14:30 | *Granger Causality in G7 Inflation Spillovers: A QVAR Approach*<br>Ze-Yu Zhong<br>*Melbourne Business School*<br>[Slides](slides/talk6.pdf) |
 | 14:30 – 15:00 | *TBA*<br>Takashi Yamagata<br>*University of York*<br>[Slides](slides/talk7.pdf) |
-| 15:00 – 15:30 | *TBA*<br>Chaowen Zheng<br>*University of Southampton*<br>[Slides](slides/talk8.pdf) |
+| 15:00 – 15:30 | *Advancing Multi-Dimensional Spatial/Network Econometrics: The MSAR Framework*<br>Chaowen Zheng<br>*University of Southampton*<br>[Slides](slides/Chaowen_Zheng_slides_york.pdf) |
 | 15:30 – 15:50 | *Coffee break* |
 | 15:50 – 16:20 | *Iterated GMM estimation and inference for misspecified nonparametric estimating equations models*<br>Francesco Bravo<br>*University of York*<br>[Slides](slides/talk9.pdf) |
 | 16:20 – 16:50 | *The Quantile Vector Autoregressive Model with Observed Common Factors*<br>Daniel Tiong<br>*University of Melbourne*<br>[Slides](slides/talk10.pdf) |
