@@ -65,6 +65,8 @@ rsconnect/
 .agents/
 AGENTS.md
 
+LLM/
+
 # schedule
 schedule/
 
