@@ -40,7 +40,11 @@ St Martin's Courtyard, Coney Street
 York YO1 9QL, United Kingdom
 ([map](https://www.google.com/maps/search/?api=1&query=The+Guildhall,+Coney+Street,+York+YO1+9QL))
 
-Wi-Fi: please use the *UoY-Fi* network
+## Practical Information
+
+- Wi-Fi: please use the *UoY-Fi* network
+- Presentation materials: [github.com/zeyuz35/York_Workshop_2026](https://github.com/zeyuz35/York_Workshop_2026)
+
 ## Local Organiser
 
 Yongcheol Shin (*University of York*)
@@ -51,7 +55,6 @@ Yongcheol Shin (*University of York*)
 - Renee Fry-McKibbin (*Australian National University*)
 - Matthew Greenwood-Nimmo (*University of Melbourne*)
 - Yongcheol Shin (*University of York*)
-
 
 ## Contact
 
