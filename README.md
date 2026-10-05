@@ -37,13 +37,17 @@ York YO1 9QL, United Kingdom
 ([map](https://www.google.com/maps/search/?api=1&query=The+Guildhall,+Coney+Street,+York+YO1+9QL))
 
 Wi-Fi: please use the *UoY-Fi* network
+## Local Organiser
+
+Yongcheol Shin (*University of York*)
 
 ## Organising Committee
 
 - Tomohiro Ando (*Melbourne Business School*)
 - Renee Fry-McKibbin (*Australian National University*)
 - Matthew Greenwood-Nimmo (*University of Melbourne*)
-- Yongcheol Shin (*University of York*, local organiser)
+- Yongcheol Shin (*University of York*)
+
 
 ## Contact
 
