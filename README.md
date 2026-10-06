@@ -44,7 +44,7 @@ York YO1 9QL, United Kingdom
 ## Practical Information
 
 - Wi-Fi: please use the *UoY-Fi* network
-- Presentation materials: [github.com/zeyuz35/York_Workshop_2026](https://github.com/zeyuz35/York_Workshop_2026)
+- Presentation materials: [github.com/efx-york26/efx-york26.github.io](https://github.com/efx-york26/efx-york26.github.io)
 
 ## Local Organiser
 
