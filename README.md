@@ -1,7 +1,8 @@
 # Macroeconomic and Financial Modelling in an Era of Extremes
 
 **Date:** Monday 12 October 2026<br>
-**Venue:** The Riverside Room, The Guildhall, York
+**Venue:** The Riverside Room, The Guildhall, York<br>
+**Website:** https://efx-york26.github.io/York_Workshop_2026/
 
 ## About
 
