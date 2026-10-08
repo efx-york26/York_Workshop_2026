@@ -24,7 +24,7 @@ This workshop brings together leading experts on macroeconomic and financial mod
 | 14:30 – 15:00 | *TBA*<br>Takashi Yamagata<br>*University of York*<br>Slides (TBA) |
 | 15:00 – 15:30 | *Advancing Multi-Dimensional Spatial/Network Econometrics: The MSAR Framework*<br>Chaowen Zheng<br>*University of Southampton*<br>[Slides](slides/Chaowen_Zheng_slides_york.pdf) |
 | 15:30 – 15:50 | *Coffee break* |
-| 15:50 – 16:20 | *Iterated GMM estimation and inference for misspecified nonparametric estimating equations models*<br>Francesco Bravo<br>*University of York*<br>Slides (TBA) |
+| 15:50 – 16:20 | *Nonparametric Dyadic Quantile Regression*<br>Francesco Bravo<br>*University of York*<br>[Slides](slides/Francesco_Bravo_slides.pdf) |
 | 16:20 – 16:50 | *The Quantile Vector Autoregressive Model with Observed Common Factors*<br>Daniel Tiong<br>*University of Melbourne*<br>Slides (TBA) |
 | 16:50 – 17:20 | *TBA*<br>Byunghoon Kang<br>*Lancaster University*<br>Slides (TBA) |
 

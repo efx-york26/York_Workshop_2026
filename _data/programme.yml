@@ -55,9 +55,10 @@
   title: Coffee break
 
 - time: "15:50 – 16:20"
-  title: Iterated GMM estimation and inference for misspecified nonparametric estimating equations models
+  title: Nonparametric Dyadic Quantile Regression
   speaker: Francesco Bravo
   affiliation: University of York
+  slides: Francesco_Bravo_slides.pdf
 
 - time: "16:20 – 16:50"
   title: The Quantile Vector Autoregressive Model with Observed Common Factors
