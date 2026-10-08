@@ -42,6 +42,22 @@ St Martin's Courtyard, Coney Street
 York YO1 9QL, United Kingdom
 ([map](https://www.google.com/maps/search/?api=1&query=The+Guildhall,+Coney+Street,+York+YO1+9QL))
 
+**The Entrance to the Guildhall:**
+
+From the Mansion House building, walk through the archway to the bottom.
+
+![Mansion House on St Helen's Square](assets/guildhall-mansion-house.png)
+
+*Guildhall*
+
+![Side view of the archway passage](assets/guildhall-archway.png)
+
+*The view from the side of the building, Miller & Carter, and Tomahawk will be on your right.*
+
+![View towards St Helen's Square](assets/guildhall-st-helens.png)
+
+*The view looking out from the Guildhall entrance to St Helen's Square.*
+
 ## Practical Information
 
 - Wi-Fi: please use the *UoY-Fi* network
@@ -60,7 +76,11 @@ Yongcheol Shin (*University of York*)
 
 ## Contact
 
+Yongcheol Shin (Workshop)
 [yongcheol.shin@york.ac.uk](mailto:yongcheol.shin@york.ac.uk)
+
+Ze-Yu Zhong (Slides)
+[zeyu.zhong.1@unimelb.edu.au](mailto:zeyu.zhong.1@unimelb.edu.au)
 
 ---
 

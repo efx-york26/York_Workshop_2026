@@ -50,9 +50,15 @@
   .slides { font-size: 0.8rem; }
   .slot.active { background: #fbf5ec; }
   .slot.active .time { color: #8a1f2d; font-weight: 600; }
-  .map { width: 100%; height: 240px; border: 0; }
-  .mapwrap { position: relative; margin-top: 0.75rem; }
+  .locwrap { display: flex; gap: 1.5rem; align-items: flex-start; }
+  .locaddr { flex: 1; }
+  .map { width: 100%; aspect-ratio: 4 / 3; border: 0; display: block; }
+  .mapwrap { position: relative; width: 50%; flex-shrink: 0; }
   .mapwrap a { position: absolute; inset: 0; }
+
+  .step-fig { margin: 0.75rem 0; }
+  .step-fig figcaption { font-size: 0.78rem; color: #888; margin-top: 0.35rem; }
+  .step-img { max-width: 22rem; width: 100%; height: auto; border-radius: 4px; display: block; }
   ul { margin: 0; padding-left: 1.2rem; }
   li .affil { font-size: 0.8rem; }
   footer {
@@ -64,6 +70,8 @@
   }
   @media (max-width: 540px) {
     .slot { grid-template-columns: 1fr; }
+    .locwrap { flex-direction: column; }
+    .mapwrap { width: 100%; }
   }
 </style>
 </head>
