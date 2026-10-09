@@ -58,7 +58,8 @@ From the Mansion House building, walk through the archway to the bottom.
 ## Practical Information
 
 - Wi-Fi: please use the *UoY-Fi* network
-- Presentation materials: [github.com/efx-york26/efx-york26.github.io](https://github.com/efx-york26/efx-york26.github.io)
+- Presentation materials: [github.com/efx-york26/York_Workshop_2026](https://github.com/efx-york26/York_Workshop_2026)
+- GitHub: [github.com/efx-york26/York_Workshop_2026](https://github.com/efx-york26/York_Workshop_2026)
 
 ## Local Organiser
 
