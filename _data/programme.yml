@@ -40,9 +40,10 @@
   affiliation: Melbourne Business School
 
 - time: "14:30 – 15:00"
-  title: TBA
+  title: Bootstrap Inference in Factor-Augmented Regressions with Weak Factors
   speaker: Takashi Yamagata
   affiliation: University of York
+  slides: Takashi_Yamagata_slides.pdf
 
 - time: "15:00 – 15:30"
   title: "Advancing Multi-Dimensional Spatial/Network Econometrics: The MSAR Framework"
