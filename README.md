@@ -20,7 +20,7 @@ This workshop brings together leading experts on macroeconomic and financial mod
 | 11:50 – 12:20 | *Common and Hazard-Specific Variation in U.S. Natural Disaster Losses*<br>Matthew Greenwood-Nimmo<br>*University of Melbourne*<br>[Slides](slides/Matthew_Greenwood-Nimmo_slides.pdf) |
 | 12:20 – 12:50 | *Semiparametric forecast comparison in unstable environments*<br>Laura Coroneo<br>*University of York*<br>[Slides](slides/Laura_Coroneo_slides.pdf) |
 | 12:50 – 14:00 | *Lunch* |
-| 14:00 – 14:30 | *Granger Causality in G7 Inflation Spillovers: A QVAR Approach*<br>Ze-Yu Zhong<br>*Melbourne Business School*<br>Slides (TBA) |
+| 14:00 – 14:30 | *Quantile Inflation Spillover Networks of the G7: Transmission and Propagation*<br>Ze-Yu Zhong<br>*Melbourne Business School*<br>[Slides](slides/Ze-Yu_Zhong_slides.pdf) |
 | 14:30 – 15:00 | *Bootstrap Inference in Factor-Augmented Regressions with Weak Factors*<br>Takashi Yamagata<br>*University of York*<br>[Slides](slides/Takashi_Yamagata_slides.pdf) |
 | 15:00 – 15:30 | *Advancing Multi-Dimensional Spatial/Network Econometrics: The MSAR Framework*<br>Chaowen Zheng<br>*University of Southampton*<br>[Slides](slides/Chaowen_Zheng_slides_york.pdf) |
 | 15:30 – 15:50 | *Coffee break* |

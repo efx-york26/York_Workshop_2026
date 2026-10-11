@@ -40,9 +40,10 @@
   title: Lunch
 
 - time: "14:00 – 14:30"
-  title: "Granger Causality in G7 Inflation Spillovers: A QVAR Approach"
+  title: "Quantile Inflation Spillover Networks of the G7: Transmission and Propagation"
   speaker: Ze-Yu Zhong
   affiliation: Melbourne Business School
+  slides: Ze-Yu_Zhong_slides.pdf
 
 - time: "14:30 – 15:00"
   title: Bootstrap Inference in Factor-Augmented Regressions with Weak Factors
