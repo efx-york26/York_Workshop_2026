@@ -15,7 +15,7 @@ This workshop brings together leading experts on macroeconomic and financial mod
 | 09:30 – 10:00 | Morning coffee, followed by opening remarks by Michael Thornton |
 | 10:00 – 10:30 | *Contagion and Immunisation: Directional Comoment Tests*<br>Renee Fry-McKibbin<br>*Australian National University*<br>[Slides](slides/Renee_FryMcKibbin_slides.pdf) |
 | 10:30 – 11:00 | *Search Effort, Screening Capacity, and the Matching Function: Evidence from Online Vacancies*<br>Tho Pham<br>*University of York*<br>[Slides](slides/Tho_Pham_slides.pdf) |
-| 11:00 – 11:30 | *Equilibrium Treatment Effects: Difference-in-Differences under Network Interference and Latent Factors*<br>Yongcheol Shin<br>*University of York*<br>Slides (TBA) |
+| 11:00 – 11:30 | *Equilibrium Treatment Effects with Network Interference and Latent Factors*<br>Yongcheol Shin<br>*University of York*<br>[Slides](slides/Yongcheol_Shin_slides.pdf) |
 | 11:30 – 11:50 | *Coffee break* |
 | 11:50 – 12:20 | *Common and Hazard-Specific Variation in U.S. Natural Disaster Losses*<br>Matthew Greenwood-Nimmo<br>*University of Melbourne*<br>[Slides](slides/Matthew_Greenwood-Nimmo_slides.pdf) |
 | 12:20 – 12:50 | *Semiparametric forecast comparison in unstable environments*<br>Laura Coroneo<br>*University of York*<br>[Slides](slides/Laura_Coroneo_slides.pdf) |

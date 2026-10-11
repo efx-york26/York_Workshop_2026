@@ -14,9 +14,10 @@
   slides: Tho_Pham_slides.pdf
 
 - time: "11:00 – 11:30"
-  title: "Equilibrium Treatment Effects: Difference-in-Differences under Network Interference and Latent Factors"
+  title: "Equilibrium Treatment Effects with Network Interference and Latent Factors"
   speaker: Yongcheol Shin
   affiliation: University of York
+  slides: Yongcheol_Shin_slides.pdf
 
 - time: "11:30 – 11:50"
   break: true
