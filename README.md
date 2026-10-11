@@ -17,7 +17,7 @@ This workshop brings together leading experts on macroeconomic and financial mod
 | 10:30 – 11:00 | *Search Effort, Screening Capacity, and the Matching Function: Evidence from Online Vacancies*<br>Tho Pham<br>*University of York*<br>[Slides](slides/Tho_Pham_slides.pdf) |
 | 11:00 – 11:30 | *Equilibrium Treatment Effects: Difference-in-Differences under Network Interference and Latent Factors*<br>Yongcheol Shin<br>*University of York*<br>Slides (TBA) |
 | 11:30 – 11:50 | *Coffee break* |
-| 11:50 – 12:20 | *Common and Hazard-Specific Variation in U.S. Natural Disaster Losses*<br>Matthew Greenwood-Nimmo<br>*University of Melbourne*<br>Slides (TBA) |
+| 11:50 – 12:20 | *Common and Hazard-Specific Variation in U.S. Natural Disaster Losses*<br>Matthew Greenwood-Nimmo<br>*University of Melbourne*<br>[Slides](slides/Matthew_Greenwood-Nimmo_slides.pdf) |
 | 12:20 – 12:50 | *Semiparametric forecast comparison in unstable environments*<br>Laura Coroneo<br>*University of York*<br>[Slides](slides/Laura_Coroneo_slides.pdf) |
 | 12:50 – 14:00 | *Lunch* |
 | 14:00 – 14:30 | *Granger Causality in G7 Inflation Spillovers: A QVAR Approach*<br>Ze-Yu Zhong<br>*Melbourne Business School*<br>Slides (TBA) |
