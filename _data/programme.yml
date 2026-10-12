@@ -73,6 +73,7 @@
   affiliation: University of Melbourne
 
 - time: "16:50 – 17:20"
-  title: TBA
+  title: "Rate-Adaptive Inference for Smoothed Instrumental Variable Quantile Regression"
   speaker: Byunghoon Kang
   affiliation: Lancaster University
+  slides: Byunghoon_Kang_slides.pdf
