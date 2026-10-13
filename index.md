@@ -9,7 +9,7 @@ This workshop brings together leading experts on macroeconomic and financial mod
 ## Programme
 
 {% for slot in site.data.programme %}
-<div class="slot{% if slot.break %} break{% endif %}"><span class="time">{{ slot.time }}</span><span class="title">{%- if slot.speaker %}<em>{{ slot.title }}</em><br><span class="speaker">{{ slot.speaker }}</span><br><span class="affil">{{ slot.affiliation }}</span><br>{% if slot.slides %}<a class="slides" href="slides/{{ slot.slides }}">Slides</a>{% else %}<span class="slides">Slides (TBA)</span>{% endif %}{% else %}{{ slot.title }}{% endif %}</span></div>
+<div class="slot{% if slot.break %} break{% endif %}"><span class="time">{{ slot.time }}</span><span class="title">{%- if slot.speaker %}<em>{{ slot.title }}</em><br><span class="speaker">{{ slot.speaker }}</span><br><span class="affil">{{ slot.affiliation }}</span>{% else %}{{ slot.title }}{% endif %}</span></div>
 {% endfor %}
 
 ## Dinner
@@ -58,8 +58,6 @@ From the Mansion House building, walk through the archway to the bottom.
 ## Practical Information
 
 - Wi-Fi: please use the *UoY-Fi* network
-- Presentation materials: [github.com/efx-york26/York_Workshop_2026](https://github.com/efx-york26/York_Workshop_2026)
-- GitHub: [github.com/efx-york26/York_Workshop_2026](https://github.com/efx-york26/York_Workshop_2026)
 
 ## Local Organiser
 
@@ -76,6 +74,3 @@ Yongcheol Shin *(University of York)*
 
 Yongcheol Shin (Workshop)
 [yongcheol.shin@york.ac.uk](mailto:yongcheol.shin@york.ac.uk)
-
-Ze-Yu Zhong (Slides)
-[zeyu.zhong.1@unimelb.edu.au](mailto:zeyu.zhong.1@unimelb.edu.au)

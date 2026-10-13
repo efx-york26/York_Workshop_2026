@@ -5,19 +5,16 @@
   title: "Contagion and Immunisation: Directional Comoment Tests"
   speaker: Renee Fry-McKibbin
   affiliation: Australian National University
-  slides: Renee_FryMcKibbin_slides.pdf
 
 - time: "10:30 – 11:00"
   title: "Search Effort, Screening Capacity, and the Matching Function: Evidence from Online Vacancies"
   speaker: Tho Pham
   affiliation: University of York
-  slides: Tho_Pham_slides.pdf
 
 - time: "11:00 – 11:30"
   title: "Equilibrium Treatment Effects with Network Interference and Latent Factors"
   speaker: Yongcheol Shin
   affiliation: University of York
-  slides: Yongcheol_Shin_slides.pdf
 
 - time: "11:30 – 11:50"
   break: true
@@ -27,13 +24,11 @@
   title: "Common and Hazard-Specific Variation in U.S. Natural Disaster Losses"
   speaker: Matthew Greenwood-Nimmo
   affiliation: University of Melbourne
-  slides: Matthew_Greenwood-Nimmo_slides.pdf
 
 - time: "12:20 – 12:50"
   title: Semiparametric forecast comparison in unstable environments
   speaker: Laura Coroneo
   affiliation: University of York
-  slides: Laura_Coroneo_slides.pdf
 
 - time: "12:50 – 14:00"
   break: true
@@ -43,19 +38,16 @@
   title: "Quantile Inflation Spillover Networks of the G7: Transmission and Propagation"
   speaker: Ze-Yu Zhong
   affiliation: Melbourne Business School
-  slides: Ze-Yu_Zhong_slides.pdf
 
 - time: "14:30 – 15:00"
   title: Bootstrap Inference in Factor-Augmented Regressions with Weak Factors
   speaker: Takashi Yamagata
   affiliation: University of York
-  slides: Takashi_Yamagata_slides.pdf
 
 - time: "15:00 – 15:30"
   title: "Advancing Multi-Dimensional Spatial/Network Econometrics: The MSAR Framework"
   speaker: Chaowen Zheng
   affiliation: University of Southampton
-  slides: Chaowen_Zheng_slides_york.pdf
 
 - time: "15:30 – 15:50"
   break: true
@@ -65,16 +57,13 @@
   title: Nonparametric Dyadic Quantile Regression
   speaker: Francesco Bravo
   affiliation: University of York
-  slides: Francesco_Bravo_slides.pdf
 
 - time: "16:20 – 16:50"
   title: The Quantile Vector Autoregressive Model with Observed Common Factors
   speaker: Daniel Tiong
   affiliation: University of Melbourne
-  slides: Daniel_Tiong_slides.pdf
 
 - time: "16:50 – 17:20"
   title: "Rate-Adaptive Inference for Smoothed Instrumental Variable Quantile Regression"
   speaker: Byunghoon Kang
   affiliation: Lancaster University
-  slides: Byunghoon_Kang_slides.pdf

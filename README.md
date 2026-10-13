@@ -1,5 +1,7 @@
 # Macroeconomic and Financial Modelling in an Era of Extremes
 
+> **Thank you for attending!** The workshop took place on Monday 12 October 2026. We hope to see you again.
+
 **Date:** Monday 12 October 2026<br>
 **Venue:** The Riverside Room, The Guildhall, York<br>
 **Website:** https://efx-york26.github.io/York_Workshop_2026/
@@ -13,20 +15,20 @@ This workshop brings together leading experts on macroeconomic and financial mod
 | Time | Session |
 |------|---------|
 | 09:30 – 10:00 | Morning coffee, followed by opening remarks by Michael Thornton |
-| 10:00 – 10:30 | *Contagion and Immunisation: Directional Comoment Tests*<br>Renee Fry-McKibbin<br>*Australian National University*<br>[Slides](slides/Renee_FryMcKibbin_slides.pdf) |
-| 10:30 – 11:00 | *Search Effort, Screening Capacity, and the Matching Function: Evidence from Online Vacancies*<br>Tho Pham<br>*University of York*<br>[Slides](slides/Tho_Pham_slides.pdf) |
-| 11:00 – 11:30 | *Equilibrium Treatment Effects with Network Interference and Latent Factors*<br>Yongcheol Shin<br>*University of York*<br>[Slides](slides/Yongcheol_Shin_slides.pdf) |
+| 10:00 – 10:30 | *Contagion and Immunisation: Directional Comoment Tests*<br>Renee Fry-McKibbin<br>*Australian National University* |
+| 10:30 – 11:00 | *Search Effort, Screening Capacity, and the Matching Function: Evidence from Online Vacancies*<br>Tho Pham<br>*University of York* |
+| 11:00 – 11:30 | *Equilibrium Treatment Effects with Network Interference and Latent Factors*<br>Yongcheol Shin<br>*University of York* |
 | 11:30 – 11:50 | *Coffee break* |
-| 11:50 – 12:20 | *Common and Hazard-Specific Variation in U.S. Natural Disaster Losses*<br>Matthew Greenwood-Nimmo<br>*University of Melbourne*<br>[Slides](slides/Matthew_Greenwood-Nimmo_slides.pdf) |
-| 12:20 – 12:50 | *Semiparametric forecast comparison in unstable environments*<br>Laura Coroneo<br>*University of York*<br>[Slides](slides/Laura_Coroneo_slides.pdf) |
+| 11:50 – 12:20 | *Common and Hazard-Specific Variation in U.S. Natural Disaster Losses*<br>Matthew Greenwood-Nimmo<br>*University of Melbourne* |
+| 12:20 – 12:50 | *Semiparametric forecast comparison in unstable environments*<br>Laura Coroneo<br>*University of York* |
 | 12:50 – 14:00 | *Lunch* |
-| 14:00 – 14:30 | *Quantile Inflation Spillover Networks of the G7: Transmission and Propagation*<br>Ze-Yu Zhong<br>*Melbourne Business School*<br>[Slides](slides/Ze-Yu_Zhong_slides.pdf) |
-| 14:30 – 15:00 | *Bootstrap Inference in Factor-Augmented Regressions with Weak Factors*<br>Takashi Yamagata<br>*University of York*<br>[Slides](slides/Takashi_Yamagata_slides.pdf) |
-| 15:00 – 15:30 | *Advancing Multi-Dimensional Spatial/Network Econometrics: The MSAR Framework*<br>Chaowen Zheng<br>*University of Southampton*<br>[Slides](slides/Chaowen_Zheng_slides_york.pdf) |
+| 14:00 – 14:30 | *Quantile Inflation Spillover Networks of the G7: Transmission and Propagation*<br>Ze-Yu Zhong<br>*Melbourne Business School* |
+| 14:30 – 15:00 | *Bootstrap Inference in Factor-Augmented Regressions with Weak Factors*<br>Takashi Yamagata<br>*University of York* |
+| 15:00 – 15:30 | *Advancing Multi-Dimensional Spatial/Network Econometrics: The MSAR Framework*<br>Chaowen Zheng<br>*University of Southampton* |
 | 15:30 – 15:50 | *Coffee break* |
-| 15:50 – 16:20 | *Nonparametric Dyadic Quantile Regression*<br>Francesco Bravo<br>*University of York*<br>[Slides](slides/Francesco_Bravo_slides.pdf) |
-| 16:20 – 16:50 | *The Quantile Vector Autoregressive Model with Observed Common Factors*<br>Daniel Tiong<br>*University of Melbourne*<br>Slides (TBA) |
-| 16:50 – 17:20 | *TBA*<br>Byunghoon Kang<br>*Lancaster University*<br>Slides (TBA) |
+| 15:50 – 16:20 | *Nonparametric Dyadic Quantile Regression*<br>Francesco Bravo<br>*University of York* |
+| 16:20 – 16:50 | *The Quantile Vector Autoregressive Model with Observed Common Factors*<br>Daniel Tiong<br>*University of Melbourne* |
+| 16:50 – 17:20 | *TBA*<br>Byunghoon Kang<br>*Lancaster University* |
 
 ## Dinner
 
@@ -61,7 +63,6 @@ From the Mansion House building, walk through the archway to the bottom.
 ## Practical Information
 
 - Wi-Fi: please use the *UoY-Fi* network
-- Presentation materials: [github.com/efx-york26/efx-york26.github.io](https://github.com/efx-york26/efx-york26.github.io)
 
 ## Local Organiser
 
@@ -78,9 +79,6 @@ Yongcheol Shin (*University of York*)
 
 Yongcheol Shin (Workshop)
 [yongcheol.shin@york.ac.uk](mailto:yongcheol.shin@york.ac.uk)
-
-Ze-Yu Zhong (Slides)
-[zeyu.zhong.1@unimelb.edu.au](mailto:zeyu.zhong.1@unimelb.edu.au)
 
 ---
 
